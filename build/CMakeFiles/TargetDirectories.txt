@@ -1,0 +1,6 @@
+/home/xiaosheng/demo_plus2/build/CMakeFiles/edit_cache.dir
+/home/xiaosheng/demo_plus2/build/CMakeFiles/rebuild_cache.dir
+/home/xiaosheng/demo_plus2/build/CMakeFiles/demo.dir
+/home/xiaosheng/demo_plus2/build/math/CMakeFiles/edit_cache.dir
+/home/xiaosheng/demo_plus2/build/math/CMakeFiles/rebuild_cache.dir
+/home/xiaosheng/demo_plus2/build/math/CMakeFiles/MathFuncations.dir

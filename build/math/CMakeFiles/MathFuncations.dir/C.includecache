@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xiaosheng/demo_plus2/math/MathFuncations.c
+MathFuncations.h
+/home/xiaosheng/demo_plus2/math/MathFuncations.h
+
+/home/xiaosheng/demo_plus2/math/MathFuncations.h
+
